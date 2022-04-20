@@ -1,0 +1,369 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7000 series (ID=0x6778)
+    Vendor:   
+    VRAM:     1008 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.147 seconds
+<RI> Initializing input.
+
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 0.743400 ms
+RimWorld 1.3.3326 rev562
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB8582E3D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85729D00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB60641360.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB60675370.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB6022A400.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB6022D610.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB857E8010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB857F1030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB857F5040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85A0BFD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85A45FF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85820070.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85A4FA10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85A67A20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85679930.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85A7C630.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB858298A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85A8C250.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85A8D860.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85A9BC70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85AB4E90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85BA9010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85BABC20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85BADA30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85BB0440.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85BB7260.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85750A70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85BC2080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85BE3EA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85BE80B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85CC1CE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85CC6100.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85CC7D10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85CCFB20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85CD2F40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85CD9D60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85CF2F70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85DC81C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85DD6BE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85E2F010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85E5DC40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85F2D060.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85F53A70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85F5C680.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85FAE010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85FB5C40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB85FC8470.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB86083090.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB86086CA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB88E80080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB88F3BAA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB88FE0AC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB88FFE6E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89016EF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB8901E700.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89029D30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89031B60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89034170.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89037780.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89048390.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB8904C7B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89053FD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89068400.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89140630.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89146840.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB8916AED0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB891AA020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB891AF230.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB891B0440.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89174F20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB891D6A80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB891DCE90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB892079E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB857260D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB892DE220.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB892E0830.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB892E7440.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB892F2850.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89321580.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89343DC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89424F00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89428520.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB8942C530.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89435B40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB8943D550.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89451010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB89458030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB8945AA40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB60286640.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB899650E0.dll
+[HugsLib] version 9.0.1
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001DB855B6220.dll
+[HugsLib] early-initializing AllowTool
+DubsMintMenus v1.3.995
+[Interaction Bubbles v1.8] Initialized
+[Bed Rest For Food Poisoning] Loaded.
+[VanillaAchievementsExpanded] version 1.3.7862
+Translation data for language English has 1 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Cherry Picker] The database was processed in 00.07270 seconds and the following defs were removed: 
+ - ThingDef/VHE_TableBarber, 
+ - ThingDef/VFE_TableMachiningLarge, 
+ - ThingDef/VFE_TableSmithyLarge, 
+ - ThingDef/VFE_TableStonecutterElectric, 
+ - ThingDef/VFE_TableButcherElectric, 
+ - ThingDef/VFE_TableTailorLarge, 
+ - ThingDef/VFE_AnimalFeeder, 
+ - ThingDef/Bed_CryptoBed, 
+ - ThingDef/Wall_SterileBrown, 
+ - ThingDef/Wall_SterileTeal, 
+ - ThingDef/Wall_SterileGold, 
+ - ThingDef/Wall_SterileDark, 
+ - ThingDef/Wall_SterileGreen, 
+ - ThingDef/Wall_SterileBlue, 
+ - ThingDef/Wall_SterileCream, 
+ - ThingDef/Wall_SterileRed, 
+ - ThingDef/Joy_Piano, 
+ - ThingDef/Bed_Ergonomic, 
+ - ThingDef/Bed_DoubleErgonomic, 
+ - ThingDef/Seat_ModernChair, 
+ - ThingDef/Light_ModernLamp, 
+ - ThingDef/AirConditioningUnit, 
+ - ThingDef/Bed_StoneSlab, 
+ - ThingDef/Seat_SquareChair, 
+ - ThingDef/Seat_Cushion, 
+ - ThingDef/VAE_Apparel_FleeceShirt, 
+ - ThingDef/VAE_Apparel_CasualTShirt, 
+ - ThingDef/VAE_Apparel_Hoodie, 
+ - ThingDef/VAE_Headgear_Fedora, 
+ - ThingDef/VAE_Apparel_Overalls, 
+ - ThingDef/VAE_Apparel_ChefsUniform, 
+ - ThingDef/VAE_Apparel_MilitaryJacket, 
+ - ThingDef/VAE_Apparel_MilitaryUniform, 
+ - ThingDef/VAE_Apparel_BuildersJacket, 
+ - ThingDef/VAE_Apparel_DoctorScrubs, 
+ - ThingDef/VAE_Apparel_SheriffShirt, 
+ - ThingDef/VAE_Apparel_Jumpsuit, 
+ - ThingDef/VAE_Apparel_Cape, 
+ - ThingDef/VAE_Apparel_Tunic, 
+ - ThingDef/VAE_Headgear_SurgicalMask, 
+ - ThingDef/VAE_Headgear_GasMask, 
+ - ThingDef/VAE_Headgear_BaseballCap, 
+ - ThingDef/VAE_Headgear_ChefsToque, 
+ - RecipeDef/Make_VAE_Headgear_ChefsToque, 
+ - RecipeDef/Make_VAE_Headgear_SurgicalMask, 
+ - RecipeDef/Make_VAE_Headgear_GasMask, 
+ - RecipeDef/Make_VAE_Headgear_BaseballCap, 
+ - RecipeDef/Make_VAE_Headgear_Beret, 
+ - RecipeDef/Make_VAE_Apparel_Hoodie, 
+ - RecipeDef/Make_VAE_Apparel_CasualTShirt, 
+ - RecipeDef/Make_VAE_Headgear_Fedora, 
+ - RecipeDef/Make_VAE_Apparel_Overalls, 
+ - RecipeDef/Make_VAE_Apparel_FleeceShirt, 
+ - RecipeDef/Make_VAE_Apparel_ChefsUniform, 
+ - RecipeDef/Make_VAE_Apparel_MilitaryJacket, 
+ - RecipeDef/Make_VAE_Apparel_DoctorScrubs, 
+ - RecipeDef/Make_VAE_Apparel_BuildersJacket, 
+ - RecipeDef/Make_VAE_Apparel_MilitaryUniform, 
+ - RecipeDef/Make_VAE_Apparel_SheriffShirt, 
+ - RecipeDef/Make_VAE_Apparel_Jumpsuit, 
+ - RecipeDef/Make_VAE_Apparel_Cape, 
+ - RecipeDef/Make_VAE_Apparel_Tunic, 
+ - RecipeDef/Make_VAE_Headgear_TrapperHat, 
+ - RecipeDef/Make_VAE_Headgear_SummerHat, 
+ - ThingDef/VAE_Headgear_Beret, 
+ - RecipeDef/Make_VAE_Apparel_LabCoat, 
+ - ThingDef/VAE_Apparel_LabCoat, 
+ - ThingDef/22Uniform, 
+ - RecipeDef/Make_22Uniform, 
+ - ThingDef/VAE_Apparel_Apron, 
+ - ThingDef/VAE_Apparel_Blouse, 
+ - ThingDef/VAE_Apparel_TankTop, 
+ - ThingDef/VAE_Headgear_TrapperHat, 
+ - ThingDef/VAE_Headgear_Hardhat, 
+ - ThingDef/VAE_Headgear_Sunglasses, 
+ - ThingDef/VAE_Headgear_Glasses, 
+ - ThingDef/VAE_Headgear_SummerHat, 
+ - ThingDef/VAE_Apparel_Trousers, 
+ - ThingDef/VAE_Apparel_ShirtandTie, 
+ - ThingDef/VAE_Apparel_SuitJacket, 
+ - ThingDef/VAE_Apparel_Skirt, 
+ - ThingDef/VAE_Apparel_Shorts, 
+ - RecipeDef/Make_VAE_Headgear_Hardhat, 
+ - RecipeDef/Make_VAE_Headgear_Sunglasses, 
+ - RecipeDef/Make_VAE_Headgear_Glasses, 
+ - ResearchProjectDef/VAE_CasualWear, 
+ - RecipeDef/Make_VAE_Apparel_Blouse, 
+ - RecipeDef/Make_VAE_Apparel_TankTop, 
+ - RecipeDef/Make_VAE_Apparel_Apron, 
+ - RecipeDef/Make_VAE_Apparel_Trousers, 
+ - RecipeDef/Make_VAE_Apparel_SuitJacket, 
+ - RecipeDef/Make_VAE_Apparel_ShirtandTie, 
+ - RecipeDef/Make_VAE_Apparel_Skirt
+<color=orange>[CSG]</color> Symbols Creator Started.
+<color=orange>[CSG]</color> Created 10823 symbolDefs for 3 mods. Took 00.02s.
+[ShowDrafteesWeapon] Initialized
+[Quality Of Building] patched
+Wall Light: v1.3.7890.36463
+[ColorCodedMoodBar] ColorCodedMoodBar initialized for RimWorld v1.1
+Multi-Bed Royalty Patch started.
+[HugsLib] initializing Psychology, com.github.alandariva.moreplanning, HeatMap, ImprovedWorkbenches
+Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 0.461700 ms
+
+Unloading 183 unused Assets to reduce memory usage. Loaded Objects now: 29542.
+Total: 258.145400 ms (FindLiveObjects: 1.497900 ms CreateObjectMapping: 3.124200 ms MarkObjects: 252.887400 ms  DeleteObjects: 0.635500 ms)
+
+Loading game from file The Vaultures with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - UnlimitedHugs.HugsLib
+  - Owlchemist.CherryPicker
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - Mlie.WeHadATrader
+  - Orion.XevaRimhair
+  - spoonshortage.spoonshairmod
+  - zylle.sandcastles
+  - Mlie.FoodAlert
+  - zylle.ExtraAlerts
+  - tammybee.predatorhuntalert
+  - UnlimitedHugs.AllowTool
+  - targhetti.ShowDrafteesWeapon
+  - dracoix.doormat.r12a
+  - rimfridge.kv.rw
+  - bob.draggableCornerss
+  - sdknm2.QualityOfBuilding
+  - avilmask.CommonSense
+  - cucumpear.azrael.varietycoats
+  - BerryRagepyre.PrisonerRecreation
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VHE
+  - Uuugggg.ReplaceStuff
+  - Oblitus.AnimalsLogic
+  - VanillaExpanded.VFEArt
+  - showhair.kv.rw
+  - DarthSergeant.NurseJob
+  - Rooboid613.RooOsHGlassesHHairstyles
+  - Dubwise.DubsMintMenus
+  - Krafs.LevelUp
+  - VISilt.PsychologyPrisonPatch
+  - Community.Psychology.UnofficialUpdate
+  - Murmur.WallLight
+  - com.github.alandariva.moreplanning
+  - eagle0600.dressPatients
+  - falconne.HeatMap
+  - spoonshortage.ADogSaidAnimalProsthetics
+  - Jaxe.Bubbles
+  - EdB.PrepareCarefully
+  - PorqueNoLosDos.ColorCodedMoodBar
+  - Mehni.Numbers
+  - Uuugggg.ShareTheLoad
+  - bedrestforfoodpoisoning.1trickPonyta
+  - Lilscoot.Wheelchairs
+  - Scherub.StonecuttingExtended
+  - PebbleCat.RimPropoganda
+  - VouLT.BetterPawnControl
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - DZW.RimHairStylesMerged
+  - Fluffy.FollowMe
+  - Fluffy.Blueprints
+  - VanillaExpanded.VEE
+  - automatic.gradienthair
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VAPPE
+  - Owlchemist.ToggleableReadouts
+  - VanillaExpanded.VMemesE
+  - VanillaExpanded.Ideo.RelicsAndArtifacts
+  - Telkir.TMods.MoreFloors
+  - Meltup.PolyamoryBeds.Vanilla
+  - MonteErin.Hair.Persona
+  - Erin.Hairredux
+  - Rooboid938.RooOsHDreadlockHHairstyles
+  - Rooboid586.RooOsHHDHHairstyles
+  - Butterfish.HairModdingPlus
+  - Rooboid.Royalhair
+  - Vanya.Agent.LolidropHairshop
+  - won2.hair
+  - Beta.AnimeHair
+  - Mlie.MultiBedRoyaltyPatch
+  - automatic.prisonerbedsetowner
+  - densevoid.onebedtosleepwithall
+  - wool.uselesshair
+  - better.beggars
+  - m00nl1ght.GeologicalLandforms
+  - rimsenal.Techist
+  - VanillaExpanded.VFEA
+  - kosaro.fahrenheitandcelsius
+  - falconne.BWM
+  - VSE.PerryPersistent
+  - SR.ModRimworld.RaidExtension
+  - tradingspot.kv.rw
+  - Palmzia.noawat
+  - Fluffy.AreaUnlocker
+  - SR.ModRimworld.FactionalWar
+Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=PropagandaSculptureSmall536496 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=PropagandaSculptureSmall692772 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=PropagandaSculptureSmall536496 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=PropagandaSculptureSmall692772 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 34782.
+Total: 403.972100 ms (FindLiveObjects: 2.865000 ms CreateObjectMapping: 3.701200 ms MarkObjects: 397.313700 ms  DeleteObjects: 0.091900 ms)
+
+Exception in JobDriver tick for pawn Khellian driver=JobDriver_AttackStatic (toilIndex=1) driver.job=(AttackStatic (Job_2320837) A=Thing_VFEA_Turret_AncientPointDefense397485)
+System.NullReferenceException: Object reference not set to an instance of an object
+  at VFECore.Abilities.Ability.get_AutoCast () [0x00000] in <89a85d1e8b264ee3b4e557e52c5ce252>:0 
+  at VFECore.Abilities.Ability.get_CanAutoCast () [0x00000] in <89a85d1e8b264ee3b4e557e52c5ce252>:0 
+  at VFECore.Abilities.TryGetAttackVerb_Patch+<>c__DisplayClass0_0.<Postfix>b__0 (VFECore.Abilities.Ability ab) [0x00000] in <89a85d1e8b264ee3b4e557e52c5ce252>:0 
+  at System.Linq.Enumerable+WhereSelectListIterator`2[TSource,TResult].ToList () [0x00017] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at VFECore.Abilities.TryGetAttackVerb_Patch.Postfix (Verse.Pawn __instance, Verse.Verb& __result, Verse.Thing target) [0x0005d] in <89a85d1e8b264ee3b4e557e52c5ce252>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.TryGetAttackVerb_Patch1(Verse.Pawn,Verse.Thing,bool)
+  at Verse.Pawn.TryStartAttack (Verse.LocalTargetInfo targ) [0x0002c] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.AI.JobDriver_AttackStatic+<>c__DisplayClass4_0.<MakeNewToils>b__1 () [0x000f1] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.AI.JobDriver.DriverTick () [0x001a1] in <99518a644a3e4a7ea3fde566568df84a>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a56dbe2cf5184fe991f5fb736b3081b0>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a56dbe2cf5184fe991f5fb736b3081b0>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 31561.
+Total: 336.620900 ms (FindLiveObjects: 1.455600 ms CreateObjectMapping: 3.168000 ms MarkObjects: 331.907500 ms  DeleteObjects: 0.089400 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: bec -> priority: 1 
+  Thread -> id: 88c -> priority: 1 
